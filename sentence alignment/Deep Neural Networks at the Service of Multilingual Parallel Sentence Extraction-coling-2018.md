@@ -19,3 +19,8 @@
 ## related work
 
 Adafre and de Rijke, 2006 是第一个使用维基百度来做相关工作的人。他从30个维基网页中生成了源语言和目标语言的笛卡尔积，然后利用一个MT系统都翻译为英文，计算词重叠。
+
+
+Mohammadi and GhasemAghaee, 2010 基于 Gale and Church, 1993 的长度对齐算法减少了算法复杂度。
+
+对于大规模数据，Barbosa et al.， 2012 使用双语词典和在线翻译服务。 Zhang et al.， 2006 提出在候选并行web页面中使用对齐器进行内容相似度估计。
