@@ -26,3 +26,6 @@ Mohammadi and GhasemAghaee, 2010 基于 Gale and Church, 1993 的长度对齐算
 对于大规模数据，Barbosa et al.， 2012 使用双语词典和在线翻译服务。 Zhang et al.， 2006 提出在候选并行web页面中使用对齐器进行内容相似度估计。
 
 S¸ tef˘anescu and Ion, 2013，使用文档中嵌入的跨语言Wikipedia链接和一个可培训的模型来生成平行句子标识的相似性评分
+
+interwiki links
+
