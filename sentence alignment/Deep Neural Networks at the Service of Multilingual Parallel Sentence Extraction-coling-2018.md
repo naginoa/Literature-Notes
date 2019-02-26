@@ -29,3 +29,8 @@ S¸ tef˘anescu and Ion, 2013，使用文档中嵌入的跨语言Wikipedia链接
 
 interwiki links
 
+## evaluation
+
+1.设置threshold，超过它的概率的句对即可evaluation为是真。
+
+2.
