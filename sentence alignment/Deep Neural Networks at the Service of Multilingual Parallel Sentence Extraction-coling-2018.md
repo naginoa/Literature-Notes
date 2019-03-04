@@ -31,6 +31,8 @@ interwiki links
 
 ## evaluation
 
+概率最大的句子为句对，为了验证该句对是否正确，需要一个阈值。
+
 1.设置threshold，超过它的概率的句对即可evaluation为是真。
 
-2.
+2.问评价的人哪些是平行的来验证阈值。
