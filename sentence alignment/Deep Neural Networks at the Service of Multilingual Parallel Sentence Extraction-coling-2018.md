@@ -36,3 +36,7 @@ interwiki links
 1.设置threshold，超过它的概率的句对即可evaluation为是真。
 
 2.问评价的人哪些是平行的来验证阈值。
+
+### step 1
+
+建立概率的正态分布
