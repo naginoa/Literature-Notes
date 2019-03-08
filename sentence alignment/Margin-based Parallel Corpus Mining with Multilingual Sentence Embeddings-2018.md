@@ -15,3 +15,5 @@ decoder:
 2:embeddings from encoder concatenated to the input embeddings.
 
 BPE:Bytes pair embeddings
+
+之后对句对算margin的cos值作为score，选取最高的k(k=4)个中最高的作为结果。
