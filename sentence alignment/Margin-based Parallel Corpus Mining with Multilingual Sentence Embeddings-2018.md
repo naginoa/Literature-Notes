@@ -13,3 +13,5 @@ decoder:
 1:embeddings from encoder liner tranform then to initialize LSTM.
 
 2:embeddings from encoder concatenated to the input embeddings.
+
+BPE:Bytes pair embeddings
